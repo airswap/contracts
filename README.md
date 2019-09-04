@@ -1,3 +1,5 @@
+:warning: This repository is not maintained. Please see: https://github.com/airswap/airswap-protocols
+
 # AirSwap Contracts
 
 This repository includes AirSwap exchange and token smart contracts. Using [Truffle](http://truffleframework.com/) for development and testing.
